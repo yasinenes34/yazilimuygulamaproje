@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "iphone 11",
+      "desc": "ios",
+      "imgUrl": "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/cep-telefonu/apple/11/cg/6.png",
+      "price": "5000",
+      "categoryID": "1",
+      "id": "1"
+    },
+    {
+      "name": "iphone 12",
+      "desc": "ios",
+      "imgUrl": "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/cep-telefonu/apple/11/cg/6.png",
+      "price": "5000",
+      "categoryID": "1",
+      "id": "2"
+    },
+    {
+      "name": "iphone 13",
+      "desc": "ios",
+      "imgUrl": "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/cep-telefonu/apple/11/cg/6.png",
+      "price": "5000",
+      "categoryID": "1",
+      "id": "3"
+    },
+    {
+      "name": "note 10",
+      "desc": "samsung new phone",
+      "imgUrl": "https://cdn.cimri.io/image/1000x1000/samsunggalaxynotegbsiyah_90970459.jpg",
+      "price": "6000",
+      "categoryID": "3",
+      "id": "LLwOSqF"
+    }
+  ]
+}

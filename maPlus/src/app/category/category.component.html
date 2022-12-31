@@ -1,0 +1,5 @@
+<nav class="nav d-flex">
+    <a routerLink="/products" class="p-2 text-muted  h5">Tüm Telfonlar</a>
+    <a *ngFor="let kategori of categories" class="p-2 text-muted h5" routerLink="/products/category/{{kategori.id}}">{{kategori.name}}</a>
+
+</nav>

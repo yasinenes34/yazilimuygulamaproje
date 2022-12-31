@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "categories2",
+  "info": {
+    "singularName": "categories1",
+    "pluralName": "categories2",
+    "displayName": "Categories"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
